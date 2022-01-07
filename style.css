@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+}
+
+body {
+  background-color: grey;
+}
+
+li {
+  background-color: white;
+  max-width: fit-content;
+}
